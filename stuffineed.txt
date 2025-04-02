@@ -1,0 +1,7 @@
+librosa
+numpy
+pandas
+xgboost
+fastapi
+uvicorn
+scikit-learn
